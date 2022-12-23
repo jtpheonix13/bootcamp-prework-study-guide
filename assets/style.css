@@ -1,6 +1,7 @@
    * {
        margin: 0;
        padding: 0;
+       
    }
 
    header,
@@ -11,7 +12,7 @@
 
         height: 120px;
 
-        background-color: blue;
+        background-color: rgb(255,130,0);
 
         color: white;
     
@@ -44,6 +45,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
+    border: 5px solid rgb(255,130,0);
     box-shadow: 5px 10px #888888;
   }
